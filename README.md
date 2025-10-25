@@ -1,3 +1,3 @@
 # Demo-Repo
 This is a demo repo.<br>
-Author- Debayan B
+Author- Debayan Bhattacharjya
